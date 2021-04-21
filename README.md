@@ -2,3 +2,4 @@
 
 ### Run:
 - python UI.py
+- check the pdf file for more info
